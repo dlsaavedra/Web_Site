@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dlsaavedra.github.io/Web_Site//sitemap.xml
+Sitemap: https://dlsaavedra.github.io/sitemap.xml
